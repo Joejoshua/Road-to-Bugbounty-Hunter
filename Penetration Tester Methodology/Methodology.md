@@ -88,9 +88,9 @@ clienti, way, madmax
 * **CMS:** Silverpeas
 * **Found Username:** scr1ptkiddy
 * **Screenshots:**
+
 ![alt text](image.png)
 
-- Login page
 ![alt text](image-1.png)
 
 ---
@@ -107,7 +107,7 @@ $ cewl http://Silverplatter.thm > custom-password.txt
 - Test login form.
 ![alt text](image-2.png)
 
-```http
+```
 POST /silverpeas/AuthenticationServlet HTTP/1.1
 Host: 10.10.203.80:8080
 Content-Type: application/x-www-form-urlencoded
