@@ -1,2 +1,2 @@
-# Vulnerability-101
-Leaning about Web Application Vulnerability 101
+# Road to Bug Bounty Hunter
+
